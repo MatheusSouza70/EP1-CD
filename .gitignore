@@ -1,0 +1,8 @@
+dados_brutos/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+venv/
+.venv/
