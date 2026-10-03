@@ -3,7 +3,6 @@
 **Integrantes do grupo:**
 - Matheus Dutra Souza
 - Pedro Henrique Lira
-- Lucas Pinheiro
 
 ## 1. Visão geral
 
